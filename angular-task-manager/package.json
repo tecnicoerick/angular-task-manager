@@ -1,0 +1,8 @@
+{
+  "name": "angular-task-manager",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build"
+  }
+}
